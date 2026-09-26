@@ -1,1 +1,20 @@
-readme
+# Operations Research
+
+A collection of optimization problems solved using Python, Gurobi, and Google Colab.
+
+## Topics
+- Linear Programming (LP)
+- Quadratic Programming (QP)
+- Mixed-Integer Linear Programming (MILP)
+- Mixed-Integer Nonlinear Programming (MINLP)
+
+## Projects
+1. Buffalo Wing Co. — Production Planning
+2. Buffalo Bisons — Ticket Pricing Optimization
+3. Concourse Technologies — IT Project Portfolio Optimization
+
+## Tools
+- Python
+- Gurobi
+- Google Colab
+- Excel Solver
